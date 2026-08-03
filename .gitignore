@@ -1,0 +1,13 @@
+# Dépendances (générées par npm)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Éditeur de code (VS Code)
+.vscode/
+
+# Système d'exploitation (Windows)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
